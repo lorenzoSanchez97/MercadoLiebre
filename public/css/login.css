@@ -36,6 +36,10 @@ form {
     font-size: 16px;
 }
 
+.titulo-principal {
+    text-align: center;
+}
+
 @media (min-width: 481px) {
     form {
         max-width: 700px;

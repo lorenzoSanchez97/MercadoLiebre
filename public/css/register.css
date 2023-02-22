@@ -57,6 +57,10 @@ form {
     margin-bottom: 10px;
 }
 
+.titulo-principal {
+    text-align: center;
+}
+
 @media (min-width: 481px) {
 
     form {
